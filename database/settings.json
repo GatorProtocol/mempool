@@ -1,0 +1,12 @@
+{
+    "models": {
+        "12": {
+            "name": "LLaMA 70b 4096 - Groq",
+            "variables": [
+                "GROQ_API_KEY"
+            ],
+            "refresh": 1,
+            "boost": 2
+        }
+    }
+}
